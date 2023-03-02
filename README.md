@@ -30,7 +30,7 @@
   - python開發環境 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/0_python開發環境.md) [[YOUTUBE教學影片]](https://youtu.be/9Doo0hgbpow)
   - 基本輸入與輸出 格式化輸出 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/1_基本輸入與輸出.md)  
 - 2.Python資料型態(data Type)及其各種運算 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/2_資料型態及其運算.md)  [[YOUTUBE教學影片]](https://youtu.be/zCfVPuJWRg8) 
-- 3.python決策與選擇結構 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/3_python決策與選擇結構.md) [YOUTUBE預錄影片]() 
+- 3.python決策與選擇結構 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/3_python決策與選擇結構.md) [[YOUTUBE教學錄影]](https://youtu.be/qUljGgQj2Tk)
 - 4.廻圈(loop) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/4_廻圈loop.md) [[YOUTUBE教學影片]](https://youtu.be/12I7eNHQpgY) 
 - 5.函數(function) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/5_函數.md) [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
 

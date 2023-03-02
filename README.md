@@ -18,9 +18,13 @@
 - 問卷調查:上完課後再填寫!一定要填寫,不然沒有證書 
   - 問卷調查須正確填寫CTF註冊的使用者ID 以供驗證解題數作為通過課程考核的依據
 
-## CTF 入門:透過參與CTF搶旗大賽學習資安實務 [線上課程]
-  - CTF搶旗大賽
-  - 註冊與登入CTF
+### CTF 入門: 
+- 如果你從沒上過CTF課程,就請先學習 ~ 如果學過 ==> 可以掠過此部分
+- CTF 入門:透過參與CTF搶旗大賽學習資安實務 [[線上教材]](./CTF.md) [[YOUTUBE教學錄影]](https://youtu.be/Bcxyx3lJG8w)
+- 起手式---文件隱寫術之word隱身術{隱寫術101::STEG1}[[YOUTUBE教學錄影]](https://youtu.be/aeXnuZi3XOk)
+  - 另一種解法 請參閱 [如何在Word中快速顯示或隱藏所有隱藏的文本？](https://zh-tw.extendoffice.com/documents/word/906-word-show-hide-hidden-text.html) 
+- 【自行完成】{隱寫術101::STEG2_Secret in PDF}
+
 ## 早上: Python 快速上手
 - 1.開發環境與基本輸入與輸出 
   - python開發環境 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/0_python開發環境.md) [[YOUTUBE教學影片]](https://youtu.be/9Doo0hgbpow)

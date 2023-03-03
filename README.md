@@ -1,4 +1,7 @@
-# SecurityFoscusOnline2023 之 Python程式與資安應用入門 
+# Python程式與資安應用入門 
+- Happy Python Day
+- SecurityFoscusOnline2023  之 A3_Python程式與資安應用入門
+
 # 開場白與上課模式說明~上課當天公布
 ## SecurityFoscusOnline2023課程宗旨:從CTF實戰學習資訊安全測試
 - 讓全台灣的學生都有機會快速學到底下基本技術

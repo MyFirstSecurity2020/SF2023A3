@@ -15,5 +15,4 @@
 ```
 ## 2.使用Python求解古典密碼破密分析問題
 ## 3.使用python程式實戰`PPC(Professional Program Code)`
-
-## 本課程使用 Ubuntu Linux 18.04 LTS(已安裝好pwntools)  [下載點](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)
+- 本單元使用 Ubuntu Linux 18.04 LTS(已安裝好pwntools)  [下載點](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)

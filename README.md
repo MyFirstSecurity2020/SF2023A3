@@ -36,14 +36,14 @@
 
 ## 下午: Python 資安應用
 - 1.使用Python求解編碼與解碼問題
-  - 使用Python程式與內建函數進行ASCII的編碼與解碼 [[YOUTUBE教學影片]](https://youtu.be/0Tr-X0Lpi7g)
-  - 使用Python標準函式庫進行BASE64的編碼與解碼 [[YOUTUBE教學影片]](https://youtu.be/z2jxjkl5X-4) 
-  - 編碼102_Internetwache CTF 2016_The hidden message [解答]()
-  - 編碼102:SECCON CTF 2014: Easy Cipher [解答]()
+  - 使用Python程式與內建函數進行ASCII的編碼與解碼[線上教材](./Python/B/1_1_%E4%BD%BF%E7%94%A8Python%E7%A8%8B%E5%BC%8F%E8%88%87%E5%85%A7%E5%BB%BA%E5%87%BD%E6%95%B8%E9%80%B2%E8%A1%8CASCII%E7%9A%84%E7%B7%A8%E7%A2%BC%E8%88%87%E8%A7%A3%E7%A2%BC.md) [[YOUTUBE教學影片]](https://youtu.be/0Tr-X0Lpi7g)
+  - 使用Python標準函式庫進行BASE64的編碼與解碼[線上教材](./Python/B/1_2_使用Python標準函式庫進行BASE64的編碼與解碼.md) [[YOUTUBE教學影片]](https://youtu.be/z2jxjkl5X-4) 
+  - 編碼102_Internetwache CTF 2016_The hidden message[線上教材](./Python/B/1_3_編碼102_Internetwache CTF 2016 _ The hidden message.md) 
+  - 編碼102:SECCON CTF 2014: Easy Cipher [線上教材](./Python/B/1_4_編碼102_SECCON CTF 2014_ Easy Cipher.md)
 - 2.使用Python求解古典密碼破密分析問題 Crypto102
-  - 【自行完成】{Crypto102::CRY11_PythonCrypto} [解答]()
-  - 使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [解答]()
-  - 使用Python求解affine-cipher{Crypto102::CRY13_affine-cipher} [解答](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/3_Python%E5%8F%A4%E5%85%B8%E7%A0%B4%E5%AF%86%E6%B3%95/2_%E4%BD%BF%E7%94%A8Python%E6%B1%82%E8%A7%A3affine-cipher.md)
+  - 【自行完成】{Crypto102::CRY11_PythonCrypto} [參考解答](./Python/B/CRY11_PythonCrypto解答.md)
+  - 使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [參考解答](./Python/B/2_1_使用Python求解變形caesar密碼.md)
+  - 使用Python求解affine-cipher{Crypto102::CRY13_affine-cipher} [參考解答](./Python/B/2_2_使用Python求解affine-cipher.md)
 - 3.使用Python求解PPC(Professional Program Code)問題
   - PPC(Professional Program Code)之使用 nc 遠端連線{PPC101::PPC1_hello world} [線上教材](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/4_Python%20%20PPC%E5%AF%A6%E6%88%B0%E6%8A%80/PPC(Professional%20Program%20Code)%E4%B9%8B%E4%BD%BF%E7%94%A8%20nc%20%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A%7BPPC101::PPC1_hello%20world%7D.md)  [[教學影片]](https://youtu.be/zJF4LBBHHrE)
   - PPC(Professional Program Code)之pwntools快速入門與示範解題{PPC101::PPC2_3rd} [線上教材](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/4_Python%20%20PPC%E5%AF%A6%E6%88%B0%E6%8A%80/PPC(Professional%20Program%20Code)%E4%B9%8Bpwntools%E5%BF%AB%E9%80%9F%E5%85%A5%E9%96%80%E8%88%87%E7%A4%BA%E7%AF%84%E8%A7%A3%E9%A1%8C.md) [[教學影片]](https://youtu.be/XVRYjrbBYw4)

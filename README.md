@@ -37,6 +37,7 @@
 - 3.python決策與選擇結構 [線上教材](./Python/A_Python程式入門/3_python決策與選擇結構.md) [[YOUTUBE教學錄影]](https://youtu.be/qUljGgQj2Tk)
 - 4.廻圈(loop) [線上教材](./Pytho/A_Python程式入門/4_廻圈loop.md) [[YOUTUBE教學影片]](https://youtu.be/12I7eNHQpgY) 
 - 5.函數(function) [線上教材](./Python/A_Python程式入門/5_函數.md) [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
+- 完成【Python101】的題目 無參考解答
 
 ## 下午: Python 資安應用
 - 1.使用Python求解編碼與解碼問題

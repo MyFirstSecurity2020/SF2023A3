@@ -13,3 +13,7 @@
 [3]Internetwache CTF 2016 : The hidden message
 [4]需要神的靈光閃爍==SECCON CTF 2014: Easy Cipher 
 ```
+## 2.使用Python求解古典密碼破密分析問題
+## 3.使用python程式實戰`PPC(Professional Program Code)`
+
+## 本課程使用 Ubuntu Linux 18.04 LTS(已安裝好pwntools)  [下載點](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)

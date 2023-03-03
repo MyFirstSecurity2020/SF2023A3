@@ -46,13 +46,13 @@
   - 使用Python求解affine-cipher{Crypto102::CRY13_affine-cipher} [參考解答](./Python/B/2_2_使用Python求解affine-cipher.md)
 - 3.使用Python求解PPC(Professional Program Code)問題
   - PPC101::PPC1_hello world [參考解答](./Python/B/PPC101__PPC1_helloworld.md)  [[教學影片]](https://youtu.be/zJF4LBBHHrE)
-  - PPC101::PPC2_3rd:pwntools快速入門與示範解題 [參考解答]() [[教學影片]](https://youtu.be/XVRYjrbBYw4)
-  - PPC101::PPC3_beautify解答 [參考解答]()
-  - 【自行完成】自行完成 PPC101::PPC4_count[參考解答]()
-  - PPC101::PPC5_lambda解答 [參考解答]()
-  - PPC101::PPC6_money解答 [參考解答]()
-  - PPC101::PPC7_calendar解答 [參考解答]()
-  - PPC101::PPC8_temperature答案 [參考解答]()  [[教學影片]](https://youtu.be/_YGpD7wXGOo)
+  - PPC101::PPC2_3rd:pwntools快速入門與示範解題 [參考解答](./Python/B/PPC101__PPC2_3rd.md) [[教學影片]](https://youtu.be/XVRYjrbBYw4)
+  - PPC101::PPC3_beautify解答 [參考解答](./Python/B/PPC101__PPC3_beautify解答.md)
+  - 【自行完成】自行完成 PPC101::PPC4_count[參考解答](./Python/B/PPC101__PPC4_count解答.md)
+  - PPC101::PPC5_lambda解答 [參考解答](./Python/B/PPC101__PPC5_lambda答案.md)
+  - PPC101::PPC6_money解答 [參考解答](./Python/B/PPC101__PPC6_money答案.md)
+  - PPC101::PPC7_calendar解答 [參考解答](./Python/B/PPC101__PPC7_calendar解答.md)
+  - PPC101::PPC8_temperature答案 [參考解答](./Python/B/PPC101__PPC8_temperature答案.md)  [[教學影片]](https://youtu.be/_YGpD7wXGOo)
 
 
 

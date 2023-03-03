@@ -46,8 +46,9 @@
   - 編碼102:SECCON CTF 2014: Easy Cipher [參考解答](./Python/B/1_4.md)
 - 2.使用Python求解古典密碼破密分析問題 Crypto102
   - 【自行完成】{Crypto102::CRY11_PythonCrypto} [參考解答](./Python/B/CRY11_PythonCrypto解答.md)
-  - 使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [參考解答](./Python/B/2_1_使用Python求解變形caesar密碼.md)
-  - 使用Python求解affine-cipher{Crypto102::CRY13_affine-cipher} [參考解答](./Python/B/2_2_使用Python求解affine-cipher.md)
+  - Crypto102::CRY12_變形caesar密碼 [參考解答](./Python/B/2_1_使用Python求解變形caesar密碼.md)
+  - Crypto102::CRY13_affine-cipher [參考解答](./Python/B/2_2_使用Python求解affine-cipher.md)
+  - 【自行完成】CRY14_加密的奧義 無參考解答
 - 3.使用Python求解PPC(Professional Program Code)問題
   - PPC101::PPC1_hello world [參考解答](./Python/B/PPC101__PPC1_helloworld.md)  [[教學影片]](https://youtu.be/zJF4LBBHHrE)
   - PPC101::PPC2_3rd:pwntools快速入門與示範解題 [參考解答](./Python/B/PPC101__PPC2_3rd.md) [[教學影片]](https://youtu.be/XVRYjrbBYw4)

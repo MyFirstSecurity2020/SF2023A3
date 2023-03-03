@@ -38,8 +38,8 @@
 - 1.使用Python求解編碼與解碼問題
   - 使用Python程式與內建函數進行ASCII的編碼與解碼[線上教材](./Python/B/1_1_%E4%BD%BF%E7%94%A8Python%E7%A8%8B%E5%BC%8F%E8%88%87%E5%85%A7%E5%BB%BA%E5%87%BD%E6%95%B8%E9%80%B2%E8%A1%8CASCII%E7%9A%84%E7%B7%A8%E7%A2%BC%E8%88%87%E8%A7%A3%E7%A2%BC.md) [[YOUTUBE教學影片]](https://youtu.be/0Tr-X0Lpi7g)
   - 使用Python標準函式庫進行BASE64的編碼與解碼[線上教材](./Python/B/1_2_使用Python標準函式庫進行BASE64的編碼與解碼.md) [[YOUTUBE教學影片]](https://youtu.be/z2jxjkl5X-4) 
-  - 編碼102_Internetwache CTF 2016_The hidden message[線上教材](./Python/B/1_3_編碼102_Internetwache CTF 2016 _ The hidden message.md) 
-  - 編碼102:SECCON CTF 2014: Easy Cipher [線上教材](./Python/B/1_4_編碼102_SECCON CTF 2014_ Easy Cipher.md)
+  - 編碼102_Internetwache CTF 2016_The hidden message[線上教材](./Python/B/1_3.md) 
+  - 編碼102:SECCON CTF 2014: Easy Cipher [線上教材](./Python/B/1_4.md)
 - 2.使用Python求解古典密碼破密分析問題 Crypto102
   - 【自行完成】{Crypto102::CRY11_PythonCrypto} [參考解答](./Python/B/CRY11_PythonCrypto解答.md)
   - 使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [參考解答](./Python/B/2_1_使用Python求解變形caesar密碼.md)

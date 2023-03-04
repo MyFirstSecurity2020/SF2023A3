@@ -3,10 +3,11 @@
   - Happy Python Day
   - SecurityFoscusOnline2023  之 A3_Python程式與資安應用入門
 
-# 開場白與上課模式說明~上課當天公布 [0304課程說明(遲到的同學請先看看)](https://youtu.be/KKDvhEZbX8M)
+# 開場白與上課模式說明~上課當天公布
 - [點選~進入Google Meet](https://meet.google.com/ord-gasp-iaj)
 - [點選~進入Google Meet](https://meet.google.com/ord-gasp-iaj)
 - [點選~進入Google Meet](https://meet.google.com/ord-gasp-iaj)
+- [0304課程說明(遲到的同學請先看看)](https://youtu.be/KKDvhEZbX8M)
 - 9:00-9:30 開場白
 - 11:30-12:00 Q&A
 

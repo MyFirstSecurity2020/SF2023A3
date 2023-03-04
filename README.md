@@ -4,6 +4,9 @@
   - SecurityFoscusOnline2023  之 A3_Python程式與資安應用入門
 
 # 開場白與上課模式說明~上課當天公布
+- [點選~進入Google Meet](https://meet.google.com/ord-gasp-iaj)
+- [點選~進入Google Meet](https://meet.google.com/ord-gasp-iaj)
+- [點選~進入Google Meet](https://meet.google.com/ord-gasp-iaj)
 ## SecurityFoscusOnline2023課程宗旨:從CTF實戰學習資訊安全測試
 - 讓全台灣的學生都有機會快速學到底下基本技術
   - 一點點的資安與CTF技術

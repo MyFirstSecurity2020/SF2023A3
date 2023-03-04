@@ -46,7 +46,7 @@
 - 5.函數(function) [線上教材](./Python/A_Python程式入門/5_函數.md) [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
 - 完成【Python101】的題目 無參考解答
 - [參考資料](./ref.md)
-- [下課以後再去玩玩Sympy套件]()
+- [下課以後再去玩玩Sympy套件](./sympy.ipynb)
 
 ## 下午: Python 資安應用
 - 1.使用Python求解編碼與解碼問題
